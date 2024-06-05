@@ -1,5 +1,5 @@
 {
-  "regions": ["sfo1"],
+  "regions": ["lhr1", "fra1", "pdx1"],
   "rewrites": [
     { "source": "/https/:match/:url*", "destination": "https://:match/:url*" },
     { "source": "/https/:match/:url*/", "destination": "https://:match/:url*/" },
