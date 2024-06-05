@@ -11,5 +11,5 @@
     { "source": "/:protocol*/:match/:url*/", "destination": ":protocol://:match/:url*/" }
   ],
 
-  "regions": ["lhr1", "fra1", "pdx1"]
+  "regions": ["lhr1"]
 }
